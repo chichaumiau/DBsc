@@ -1,0 +1,207 @@
+,0,1,id1,resolution1,length1,mol1,id2,resolution2,length2,mol2
+0,4da4_A_A,3pt9_A_A,4da4_A_A,2.6,834,dna (cytosine-5)-methyltransferase 1,3pt9_A_A,2.5,824,dna (cytosine-5)-methyltransferase 1
+1,5ean_A_A,5eaw_A_A,5ean_A_A,2.36,1051,dna replication atp-dependent helicase/nuclease dna2,5eaw_A_A,3.0,1046,dna replication atp-dependent helicase/nuclease dna2
+2,5hrt_A_A,5dlt_A_B,5hrt_A_A,1.997,786,ectonucleotide pyrophosphatase/phosphodiesterase familymember 2 ,5dlt_A_B,1.6,794,ectonucleotide pyrophosphatase/phosphodiesterase familymember 2 
+3,3wpc_A_B,3wpb_A_A,3wpc_A_B,1.6,747,toll-like receptor 9,3wpb_A_A,2.4,752,toll-like receptor 9
+4,3k4x_A_A,1plq_A_A,3k4x_A_A,2.98,758,proliferating cell nuclear antigen,1plq_A_A,2.3,258,proliferating cell nuclear antigen (pcna)
+5,4g0r_A_B,4gbt_A_A,4g0r_A_B,2.7,554,capsid protein vp1,4gbt_A_A,3.2,552,capsid protein vp1
+6,5iwi_A_A,2xcq_A_A,5iwi_A_A,1.98,483,dna gyrase subunit a,2xcq_A_A,2.98,652,"dna gyrase subunit b, dna gyrase subunit a"
+7,5f56_A_A,5f54_A_A,5f56_A_A,2.3,703,single-stranded-dna-specific exonuclease,5f54_A_A,2.7,693,single-stranded-dna-specific exonuclease
+8,2p6r_A_A,2p6u_A_A,2p6r_A_A,3.0,683,afuhel308 helicase,2p6u_A_A,3.14,671,afuhel308 helicase
+9,1t8e_B_A,4hua_A_A,1t8e_B_A,2.54,106,thioredoxin 1,4hua_A_A,1.1,107,thioredoxin-1
+10,3kqn_A_A,3o8b_A_A,3kqn_A_A,2.05,437,serine protease/ntpase/helicase ns3,3o8b_A_A,1.95,645,hcv ns3 protease/helicase
+11,4o3m_A_B,3we2_A_A,4o3m_A_B,2.3,613,bloom syndrome protein,3we2_A_A,2.7,121,bloom syndrome protein
+12,2jlg_A_A,1hhs_A_A,2jlg_A_A,2.8,664,rna-directed rna polymerase,1hhs_A_A,2.0,664,rna-directed rna polymerase
+13,4xpc_A_A,1nnd_A_A,4xpc_A_A,1.68,247,reverse transcriptase,1nnd_A_A,2.3,251,reverse transcriptase
+14,4a15_A_A,2vsf_A_A,4a15_A_A,2.2,596,atp-dependent dna helicase ta0057,2vsf_A_A,2.9,588,dna repair helicase rad3 related protein
+15,1mw8_X_A,1mw9_X_B,1mw8_X_A,1.9,561,dna topoisomerase i,1mw9_X_B,1.67,556,dna topoisomerase i
+16,4e68_A_A,3cwg_A_A,4e68_A_A,2.585,559,signal transducer and activator of transcription 3,3cwg_A_A,3.05,501,signal transducer and activator of transcription3 
+17,4dpv_Z_A,1c8d_A_A,4dpv_Z_A,2.9,559,protein (parvovirus coat protein),1c8d_A_A,3.0,548,canine parvovirus capsid
+18,1v15_A_A,1fr2_B_A,1v15_A_A,2.4,106,colicin e9,1fr2_B_A,1.6,131,colicin e9
+19,4yfu_A_B,1xwl_A_A,4yfu_A_B,1.5,578,dna polymerase,1xwl_A_A,1.7,580,dna polymerase i
+20,2py5_A_A,1xhx_A_A,2py5_A_A,1.6,564,dna polymerase,1xhx_A_A,2.35,571,dna polymerase
+21,2ve9_A_A,2ve8_A_A,2ve9_A_A,1.9,62,dna translocase ftsk,2ve8_A_A,1.4,67,dna translocase ftsk
+22,3gp8_A_A,3e1s_A_A,3gp8_A_A,2.5,551,"exodeoxyribonuclease v, subunit recd, putative",3e1s_A_A,2.2,517,"exodeoxyribonuclease v, subunit recd"
+23,4lz1_H_A,5afy_H_A,4lz1_H_A,1.65,249,thrombin heavy chain,5afy_H_A,1.12,250,thrombin heavy chain
+24,4wzw_A_A,4wzr_A_B,4wzw_A_A,2.9516,505,pumilio domain-containing protein kiaa0020,4wzr_A_B,2.154,511,pumilio domain-containing protein kiaa0020
+25,3ra4_A_A,3ra2_A_A,3ra4_A_A,2.7,519,capsid protein,3ra2_A_A,2.7,519,capsid protein
+26,3pov_A_A,3fhd_A_A,3pov_A_A,2.5,445,orf 37,3fhd_A_A,1.85,456,orf 37
+27,4dqy_C_A,4zzz_A_A,4dqy_C_A,3.25,456,poly [adp-ribose] polymerase 1,4zzz_A_A,1.9,350,poly [adp-ribose] polymerase 1
+28,1rff_A_A,1jy1_A_A,1rff_A_A,1.7,425,tyrosyl-dna phosphodiesterase 1,1jy1_A_A,1.69,439,tyrosyl-dna phosphodiesterase
+29,1tez_A_A,1owl_A_A,1tez_A_A,1.8,474,deoxyribodipyrimidine photolyase,1owl_A_A,1.8,473,deoxyribodipyrimidine photolyase
+30,4jrp_A_A,2qxf_A_C,4jrp_A_A,1.95,460,exodeoxyribonuclease i,2qxf_A_C,1.5,433,exodeoxyribonuclease i
+31,2xrz_A_B,2xry_A_B,2xrz_A_B,2.2,450,deoxyribodipyrimidine photolyase,2xry_A_B,1.5,458,deoxyribodipyrimidine photolyase
+32,3dnv_A_A,3tpd_A_A,3dnv_A_A,2.68,414,protein hipa,3tpd_A_A,1.5,396,serine/threonine-protein kinase hipa
+33,2w42_A_A,1w9h_A_A,2w42_A_A,1.9,395,putative uncharacterized protein,1w9h_A_A,1.95,398,hypothetical protein af1318
+34,4n0o_A_A,4n0n_A_A,4n0o_A_A,2.65,395,replicase polyprotein 1ab,4n0n_A_A,2.0,401,replicase polyprotein 1ab
+35,2ih2_A_A,1aqi_A_A,2ih2_A_A,1.61,393,modification methylase taqi,1aqi_A_A,2.6,382,adenine-n6-dna-methyltransferase taqi
+36,1pv4_A_A,1a8v_A_A,1pv4_A_A,3.0,408,transcription termination factor rho,1a8v_A_A,2.0,115,transcription termination factor rho
+37,3u7f_B_A,3zvl_A_A,3u7f_B_A,1.8,378,bifunctional polynucleotide phosphatase/kinase,3zvl_A_A,1.65,379,bifunctional polynucleotide phosphatase/kinase
+38,1y8z_A_A,1xv5_A_A,1y8z_A_A,1.9,389,dna alpha-glucosyltransferase,1xv5_A_A,1.73,399,dna alpha-glucosyltransferase
+39,5itu_A_A,5itq_A_A,5itu_A_A,2.41,268,endonuclease 8-like 1,5itq_A_A,1.48,286,endonuclease 8-like 1
+40,3ngo_A_A,3ngq_A_A,3ngo_A_A,2.2,337,ccr4-not transcription complex subunit 6-like,3ngq_A_A,1.8,335,ccr4-not transcription complex subunit 6-like
+41,3oym_A_A,2x78_A_B,3oym_A_A,2.02,368,pfv integrase,2x78_A_B,2.0,171,integrase
+42,3c25_A_A,3bvq_A_A,3c25_A_A,2.5,354,noti restriction endonuclease,3bvq_A_A,2.8,342,noti restriction endonuclease
+43,3ei2_B_B,3ei3_B_A,3ei2_B_B,2.6,355,dna damage-binding protein 2,3ei3_B_A,2.3,355,dna damage-binding protein 2
+44,4w9m_C_A,3qf7_A_B,4w9m_C_A,2.7,352,"probable dna double-strand break repair rad50 atpase,probable dna double-strand break repair rad50 atpase ",3qf7_A_B,1.9,357,rad50
+45,3bep_A_A,4k3l_A_A,3bep_A_A,1.92,366,dna polymerase iii subunit beta,4k3l_A_A,1.5,353,dna polymerase iii subunit beta
+46,2xhi_A_B,5an4_A_A,2xhi_A_B,1.55,316,n-glycosylase/dna lyase,5an4_A_A,1.6,312,n-glycosylase/dna lyase
+47,3zi5_A_A,2c1l_A_C,3zi5_A_A,3.2,166,restriction endonuclease,2c1l_A_C,1.9,358,restriction endonuclease
+48,3vh0_A_A,3vgz_A_A,3vh0_A_A,2.9,322,uncharacterized protein ynce,3vgz_A_A,1.7,321,uncharacterized protein ynce
+49,1m5r_A_A,1jg7_A_A,1m5r_A_A,1.8,351,dna beta-glucosyltransferase,1jg7_A_A,1.65,351,dna beta-glucosyltransferase
+50,3dsd_A_A,4hd0_A_A,3dsd_A_A,2.2,333,dna double-strand break repair protein mre11,4hd0_A_A,2.3,332,dna double-strand break repair protein mre11
+51,3m4a_A_A,2f4q_A_B,3m4a_A_A,1.65,304,putative type i topoisomerase,2f4q_A_B,1.75,309,"type i topoisomerase, putative"
+52,5hru_A_B,5hs4_A_A,5hru_A_B,1.71,305,l-lactate dehydrogenase,5hs4_A_A,1.339,301,l-lactate dehydrogenase
+53,3glg_A_A,1jql_B_A,3glg_A_A,3.25,333,dna polymerase iii subunit delta,1jql_B_A,2.5,140,"dna polymerase iii, delta subunit"
+54,4u7b_A_A,4mda_A_A,4u7b_A_A,3.09,342,mariner mos1 transposase,4mda_A_A,1.7,200,mariner mos1 transposase
+55,1mnn_A_A,1mn4_A_A,1mnn_A_A,1.4,290,ndt80 protein,1mn4_A_A,2.2,246,ndt80 protein
+56,3b39_A_A,1eqn_A_A,3b39_A_A,2.35,317,dna primase,1eqn_A_A,2.9,315,dna primase
+57,3pvi_A_A,3ksk_A_A,3pvi_A_A,1.59,156,protein (pvuii endonuclease),3ksk_A_A,2.35,313,type-2 restriction enzyme pvuii
+58,4par_A_A,4pbb_A_A,4par_A_A,2.89,314,uncharacterized protein abasi,4pbb_A_A,3.46,314,uncharacterized protein abasi
+59,5dff_A_B,4qhe_A_B,5dff_A_B,1.57,276,dna-(apurinic or apyrimidinic site) lyase,4qhe_A_B,1.4,281,dna-(apurinic or apyrimidinic site) lyase
+60,4gle_A_A,3tc3_A_B,4gle_A_A,2.7,292,uv damage endonuclease,3tc3_A_B,1.5,289,uv damage endonuclease
+61,2ihn_A_A,3h7i_A_A,2ihn_A_A,3.0,299,ribonuclease h,3h7i_A_A,1.502,302,ribonuclease h
+62,2gxa_A_A,2v9p_A_A,2gxa_A_A,3.15,270,replication protein e1,2v9p_A_A,3.0,272,replication protein e1
+63,5dlj_A_A,3nke_A_A,5dlj_A_A,2.6,267,crispr-associated endonuclease cas1,3nke_A_A,1.4,183,protein ygbt
+64,4oi8_A_A,4p2y_A_B,4oi8_A_A,3.101,211,advanced glycosylation end product-specific receptor,4p2y_A_B,2.3,301,advanced glycosylation end product-specific receptor
+65,2r9l_A_A,2iru_A_A,2r9l_A_A,2.4,287,putative dna ligase-like protein,2iru_A_A,1.65,286,putative dna ligase-like protein rv0938/mt0965
+66,4lox_A_A,5e5p_A_A,4lox_A_A,1.98,300,laglidadg homing endonuclease i-smami,5e5p_A_A,2.65,295,i-smami laglidadg meganuclease
+67,1rrc_A_A,1ly1_A_A,1rrc_A_A,2.46,288,polynucleotide kinase,1ly1_A_A,2.0,152,polynucleotide kinase
+68,4rtk_A_A,4gom_D_A,4rtk_A_A,1.96,245,dna adenine methylase,4gom_D_A,2.45,243,dna adenine methylase
+69,3v1z_A_B,1knv_A_B,3v1z_A_B,2.2,290,endonuclease bse634ir,1knv_A_B,2.17,290,bse634i restriction endonuclease
+70,5hp4_A_B,5hml_A_A,5hp4_A_B,1.86,272,exodeoxyribonuclease,5hml_A_A,1.482,271,exodeoxyribonuclease
+71,2nq9_A_A,2nqh_A_A,2nq9_A_A,1.45,279,endonuclease 4,2nqh_A_A,1.1,279,endonuclease 4
+72,1z19_A_A,2oxo_A_B,1z19_A_A,2.8,273,integrase,2oxo_A_B,2.0,93,integrase
+73,3cw7_A_A,1pvs_A_A,3cw7_A_A,2.3,282,dna-3-methyladenine glycosylase 2,1pvs_A_A,2.4,282,dna-3-methyladenine glycosylase ii
+74,1nh2_A_A,4b0a_A_B,1nh2_A_A,1.9,180,transcription initiation factor tfiid,4b0a_A_B,1.97,237,"transcription initiation factor tfiid subunit 1, linker,tata-box-binding protein "
+75,5dwa_A_A,5dwc_A_A,5dwa_A_A,1.5,278,type-2 restriction enzyme agei,5dwc_A_A,2.5,273,type-2 restriction enzyme agei
+76,4r8p_L_A,1x23_A_A,4r8p_L_A,3.2846,254,"e3 ubiquitin-protein ligase ring2, ubiquitin-conjugatingenzyme e2 d3 ",1x23_A_A,1.85,153,ubiquitin-conjugating enzyme e2 d3
+77,3zql_A_A,2y2z_A_A,3zql_A_A,2.99,236,putative repressor simreg2,2y2z_A_A,1.95,238,putative repressor simreg2
+78,4dqy_B_A,2riq_A_A,4dqy_B_A,3.25,136,poly [adp-ribose] polymerase 1,2riq_A_A,1.7,135,poly [adp-ribose] polymerase 1
+79,4pe8_A_A,1xwy_A_A,4pe8_A_A,2.894,260,tat-linked quality control protein tatd,1xwy_A_A,2.0,260,deoxyribonuclease tatd
+80,1zrf_A_A,4r8h_A_B,1zrf_A_A,2.1,203,catabolite gene activator,4r8h_A_B,1.46,200,camp-activated global transcriptional regulator crp
+81,4pog_A_A,4pof_A_A,4pog_A_A,3.203,255,cell division control protein 21,4pof_A_A,2.648,255,cell division control protein 21
+82,5j37_A_A,5j09_A_A,5j37_A_A,2.3,206,beak and feather disease virus capsid protein,5j09_A_A,2.0,171,beak and feather disease virus capsid protein
+83,1f0v_A_B,1dy5_A_C,1f0v_A_B,1.7,124,ribonuclease a,1dy5_A_C,0.87,123,ribonuclease a
+84,4gz1_A_B,5j42_A_B,4gz1_A_B,1.5,254,tyrosyl-dna phosphodiesterase 2,5j42_A_B,1.7,248,tyrosyl-dna phosphodiesterase 2
+85,4uqm_A_B,2boo_A_A,4uqm_A_B,1.35,229,uracil-dna glycosylase,2boo_A_A,1.8,230,uracil-dna glycosylase
+86,5gke_A_A,5gkj_A_A,5gke_A_A,2.4,239,endonuclease endoms,5gkj_A_A,3.2,213,endonuclease endoms
+87,3zdb_A_A,3zd8_A_A,3zdb_A_A,1.47,246,protein xni,3zd8_A_A,2.0,239,protein xni
+88,5ed4_A_A,3r0j_A_A,5ed4_A_A,2.4,222,response regulator,3r0j_A_A,2.5,223,possible two component system response transcriptionalpositive regulator phop 
+89,3hxo_A_A,5bv8_A_A,3hxo_A_A,2.4,199,von willebrand factor,5bv8_A_A,1.59,209,von willebrand factor
+90,5lej_A_A,5lrr_A_B,5lej_A_A,2.7,236,listeriolysin regulatory protein,5lrr_A_B,2.171,236,listeriolysin positive regulatory factor a
+91,3mxm_A_A,3mxj_A_A,3mxm_A_A,1.75,226,three prime repair exonuclease 1,3mxj_A_A,1.95,210,three prime repair exonuclease 1
+92,4u0y_A_B,4u0w_A_C,4u0y_A_B,1.91,75,hth-type transcriptional repressor yvoa,4u0w_A_C,2.001,243,hth-type transcriptional repressor yvoa
+93,2z70_A_A,2pqx_A_A,2z70_A_A,1.7,245,ribonuclease i,2pqx_A_A,1.42,245,ribonuclease i
+94,4h5q_A_A,3ov9_A_A,4h5q_A_A,2.7,242,nucleocapsid protein,3ov9_A_A,1.6,245,nucleoprotein
+95,5dy0_A_A,5dxz_A_A,5dy0_A_A,3.0,220,tetr family transcriptional regulator,5dxz_A_A,2.25,199,tetr family transcriptional regulator
+96,3mln_A_B,3lyr_A_A,3mln_A_B,2.4,206,transcription factor coe1,3lyr_A_A,2.51,211,transcription factor coe1
+97,5cl8_A_A,3bvs_A_A,5cl8_A_A,1.38,231,alkd,3bvs_A_A,2.1,227,alkylpurine dna glycosylase alkd
+98,3gz6_A_A,3gz5_A_A,3gz6_A_A,2.901,219,mutt/nudix family protein,3gz5_A_A,2.2,214,mutt/nudix family protein
+99,4yig_A_A,4od8_A_A,4yig_A_A,2.7,220,uracil-dna glycosylase,4od8_A_A,1.85,220,uracil-dna glycosylase
+100,4tzd_A_A,1nls_A_B,4tzd_A_A,3.2,232,concanavalin-a,1nls_A_B,0.94,237,concanavalin a
+101,2w36_A_A,3hd0_A_A,2w36_A_A,2.1,223,endonuclease v,3hd0_A_A,2.7,220,endonuclease v
+102,4pso_A_A,4psn_A_B,4pso_A_A,2.9,218,ssdna binding protein,4psn_A_B,2.05,220,ssdna binding protein
+103,3v9w_A_A,3ngy_A_A,3v9w_A_A,1.702,202,ribonuclease t,3ngy_A_A,2.204,204,ribonuclease t
+104,4dav_A_A,4da2_A_A,4dav_A_A,2.2,231,sugar fermentation stimulation protein homolog,4da2_A_A,1.8,231,sugar fermentation stimulation protein homolog
+105,4z47_A_A,1wyw_A_A,4z47_A_A,1.45,196,g/t mismatch-specific thymine dna glycosylase,1wyw_A_A,2.1,216,g/t mismatch-specific thymine dna glycosylase
+106,5trd_A_A,3cta_A_A,5trd_A_A,1.85,219,riboflavin kinase,3cta_A_A,2.2,187,riboflavin kinase
+107,5chi_A_A,4o8u_A_A,5chi_A_A,2.472,230,uncharacterized protein,4o8u_A_A,2.345,227,uncharacterized protein pf2046
+108,4ljr_A_A,4ljl_A_B,4ljr_A_A,1.8,213,dna processing chain a,4ljl_A_B,2.2,219,dna processing chain a (dpra)
+109,3sm4_A_A,1avq_A_A,3sm4_A_A,1.88,225,exonuclease,1avq_A_A,2.4,228,lambda exonuclease
+110,3igk_A_B,3d06_A_B,3igk_A_B,1.7,197,cellular tumor antigen p53,3d06_A_B,1.2,179,cellular tumor antigen p53
+111,4z8f_H_A,4z95_H_A,4z8f_H_A,1.75,226,s1-15 fab (igg2b) heavy chain,4z95_H_A,1.79,226,s1-15 fab (igg2b) heavy chain
+112,5byg_A_A,4zo0_A_A,5byg_A_A,2.5,181,protein rep78,4zo0_A_A,2.3,202,protein rep68
+113,5iff_A_A,2dvy_A_A,5iff_A_A,1.9,216,uncharacterized protein,2dvy_A_A,3.0,223,restriction endonuclease pabi
+114,5j3e_A_A,3eop_A_A,5j3e_A_A,2.6,172,thymocyte nuclear protein 1,3eop_A_A,2.3,169,thymocyte nuclear protein 1
+115,3lsr_A_A,3lsj_A_A,3lsr_A_A,2.55,192,dest,3lsj_A_A,2.3,205,dest
+116,2dp6_A_A,2d3y_A_A,2dp6_A_A,1.8,219,uracil-dna glycosylase,2d3y_A_A,1.55,219,uracil-dna glycosylase
+117,4zhn_A_C,4jht_A_B,4zhn_A_C,1.333,200,alpha-ketoglutarate-dependent dioxygenase alkb,4jht_A_B,1.18,201,alpha-ketoglutarate-dependent dioxygenase alkb
+118,5jre_D_A,5jr9_A_A,5jre_D_A,2.1,185,neq131,5jr9_A_A,2.4,188,neq131
+119,4pxi_A_A,1ui5_A_A,4pxi_A_A,3.2,194,cprb,1ui5_A_A,2.4,199,a-factor receptor homolog
+120,3knt_A_A,3fhf_A_A,3knt_A_A,2.7,207,n-glycosylase/dna lyase,3fhf_A_A,1.995,214,n-glycosylase/dna lyase
+121,3tq6_A_A,3fgh_A_B,3tq6_A_A,2.45,194,"transcription factor a, mitochondrial",3fgh_A_B,1.35,67,"transcription factor a, mitochondrial"
+122,1oup_A_A,1ouo_A_A,1oup_A_A,2.3,213,nuclease,1ouo_A_A,2.3,210,nuclease
+123,4i6z_A_A,2id6_A_B,4i6z_A_A,3.2,200,"transcriptional regulator, tetr family",2id6_A_B,1.746,202,"transcriptional regulator, tetr family"
+124,4gck_A_A,4gfl_A_A,4gck_A_A,2.05,190,nucleoid occlusion factor slma,4gfl_A_A,2.3,190,nucleoid occlusion factor slma
+125,3ikt_A_B,3ikv_A_A,3ikt_A_B,2.26,204,redox-sensing transcriptional repressor rex,3ikv_A_A,2.4,206,redox-sensing transcriptional repressor rex
+126,4oww_B_A,4owt_B_A,4oww_B_A,2.3,107,soss complex subunit b1,4owt_B_A,2.0,72,soss complex subunit b1
+127,5fdk_A_A,1zp7_A_A,5fdk_A_A,3.208,177,holliday junction resolvase recu,1zp7_A_A,2.25,153,recombination protein u
+128,5fmp_A_A,5aqc_A_B,5fmp_A_A,2.26,184,hth-type transcriptional repressor kstr,5aqc_A_B,1.66,183,hth-type transcriptional repressor kstr
+129,1c7y_A_A,1d8l_A_A,1c7y_A_A,3.1,199,holliday junction dna helicase ruva,1d8l_A_A,2.5,140,protein (holliday junction dna helicase ruva)
+130,2x6v_A_B,2x6u_A_B,2x6v_A_B,2.2,177,t-box transcription factor tbx5,2x6u_A_B,1.9,176,t-box transcription factor tbx5
+131,3jso_A_B,1jhf_A_A,3jso_A_B,2.29,188,lexa repressor,1jhf_A_A,1.8,197,lexa repressor
+132,3h15_A_B,3ebe_A_B,3h15_A_B,2.72,173,protein mcm10 homolog,3ebe_A_B,2.3,172,protein mcm10 homolog
+133,4l5r_C_A,4l5q_A_A,4l5r_C_A,1.873,198,interferon-activable protein 202,4l5q_A_A,2.23,199,interferon-activable protein 202
+134,2vs7_A_A,1b24_A_A,2vs7_A_A,2.05,179,homing endonuclease i-dmoi,1b24_A_A,2.2,172,protein (i-dmoi)
+135,4l62_A_A,3rd3_A_A,4l62_A_A,2.9,190,transcriptional regulator,3rd3_A_A,2.4,187,probable transcriptional regulator
+136,5k83_A_A,5k81_A_A,5k83_A_A,2.39,191,"apolipoprotein b mrna editing enzyme, catalytic peptide-like 3g,apolipoprotein b mrna editing enzyme, catalytic peptide-like 3g ",5k81_A_A,2.006,191,"apolipoprotein b mrna editing enzyme, catalytic peptide-like 3g,apolipoprotein b mrna editing enzyme, catalytic peptide-like 3g "
+137,2h27_A_A,1or7_A_B,2h27_A_A,2.3,71,rna polymerase sigma e factor,1or7_A_B,2.0,181,rna polymerase sigma-e factor
+138,4ofa_A_A,4e9e_A_A,4ofa_A_A,1.55,142,methyl-cpg-binding domain protein 4,4e9e_A_A,1.9,140,methyl-cpg-binding domain protein 4
+139,4a12_A_A,4a0z_A_A,4a12_A_A,3.15,183,transcription factor fapr,4a0z_A_A,1.9,183,transcription factor fapr
+140,4csa_C_A,4cs9_A_A,4csa_C_A,2.28,164,m2-1,4cs9_A_A,2.01,158,m2-1
+141,4ni7_A_A,4cni_C_A,4ni7_A_A,2.4,151,interleukin-6,4cni_C_A,2.2,171,interleukin-6
+142,2yvh_A_A,2yve_A_A,2yvh_A_A,2.5,171,transcriptional regulator,2yve_A_A,1.4,175,transcriptional regulator
+143,2ofi_A_A,2ofk_A_A,2ofi_A_A,1.85,184,"3-methyladenine dna glycosylase i, constitutive",2ofk_A_A,1.5,182,"3-methyladenine dna glycosylase i, constitutive"
+144,3n1i_A_A,3r9z_A_A,3n1i_A_A,2.2,161,protein stwhy2,3r9z_A_A,1.755,154,why2 protein
+145,3vaj_A_B,2hzc_A_B,3vaj_A_B,1.9,174,splicing factor u2af 65 kda subunit,2hzc_A_B,1.47,87,splicing factor u2af 65 kda subunit
+146,4mdf_A_A,4gp7_A_A,4mdf_A_A,1.727,171,metallophosphoesterase,4gp7_A_A,2.0,171,metallophosphoesterase
+147,3lap_A_A,2zfz_A_A,3lap_A_A,2.15,149,arginine repressor,2zfz_A_A,1.85,77,arginine repressor
+148,3a5u_A_A,3afp_A_A,3a5u_A_A,2.8,118,single-stranded dna-binding protein,3afp_A_A,2.05,109,single-stranded dna-binding protein
+149,4l18_A_A,1eao_A_A,4l18_A_A,2.3,142,runt-related transcription factor 1,1eao_A_A,1.4,124,runt-related transcription factor 1
+150,1xpx_A_A,1mij_A_A,1xpx_A_A,2.8,144,protein prospero,1mij_A_A,2.05,139,protein prospero
+151,5bmz_A_A,4rgu_A_B,5bmz_A_A,3.001,139,hcar protein,4rgu_A_B,1.891,141,repressor protein
+152,2isz_A_A,2isy_A_A,2isz_A_A,2.403,140,iron-dependent repressor ider,2isy_A_A,1.955,146,iron-dependent repressor ider
+153,1cw0_A_A,1vsr_A_A,1cw0_A_A,2.3,155,protein (dna mismatch endonuclease),1vsr_A_A,1.8,134,protein (vsr endonuclease)
+154,2zhg_A_A,2zhh_A_A,2zhg_A_A,2.8,121,redox-sensitive transcriptional activator soxr,2zhh_A_A,3.2,120,redox-sensitive transcriptional activator soxr
+155,4aik_A_A,4aih_A_A,4aik_A_A,1.85,139,transcriptional regulator slya,4aih_A_A,2.4,139,transcriptional regulator slya
+156,2pfj_A_A,1m0d_A_A,2pfj_A_A,3.1,129,endodeoxyribonuclease 1,1m0d_A_A,1.9,129,endodeoxyribonuclease i
+157,4fx4_A_A,4fx0_A_A,4fx4_A_A,3.1001,128,probable transcriptional repressor protein,4fx0_A_A,2.6981,122,probable transcriptional repressor protein
+158,1z9c_A_A,1z91_A_A,1z9c_A_A,2.64,137,organic hydroperoxide resistance transcriptionalregulator ,1z91_A_A,2.5,137,organic hydroperoxide resistance transcriptional regulator
+159,1b3t_A_A,1vhi_A_A,1b3t_A_A,2.2,147,protein (nuclear protein ebna1),1vhi_A_A,2.5,139,epstein barr virus nuclear antigen-1
+160,2bsq_A_A,2h1c_A_A,2bsq_A_A,3.0,143,trafficking protein b,2h1c_A_A,1.8,139,trafficking protein b
+161,4rb3_C_A,4ray_A_A,4rb3_C_A,2.6,136,dna-binding transcriptional dual regulator of siderophorebiosynthesis and transport(fur family) ,4ray_A_A,1.55,135,dna-binding transcriptional dual regulator of siderophorebiosynthesis and transport(fur family) 
+162,4htu_A_B,1zbf_A_A,4htu_A_B,1.489,134,ribonuclease h,1zbf_A_A,1.5,132,ribonuclease h-related protein
+163,2wiw_B_A,2wcw_A_A,2wiw_B_A,1.8,126,hjc,2wcw_A_A,1.58,126,hjc
+164,5b0z_A_A,2hue_B_B,5b0z_A_A,1.987,96,histone h3.2,2hue_B_B,1.7,75,histone h3
+165,4xzf_A_A,4xzg_A_A,4xzf_A_A,1.38,121,helicase-like transcription factor,4xzg_A_A,2.4,121,helicase-like transcription factor
+166,5kbj_A_A,4pt7_A_A,5kbj_A_A,3.09,130,"replication initiator a, n-terminal",4pt7_A_A,2.35,131,replication initiator a family protein
+167,2itl_A_A,2fuf_A_A,2itl_A_A,1.65,120,large t antigen,2fuf_A_A,1.45,126,large t antigen
+168,2ccz_A_A,1txy_A_A,2ccz_A_A,2.7,121,primosomal replication protein n,1txy_A_A,2.0,92,primosomal replication protein n
+169,3o9x_A_A,3fmy_A_B,3o9x_A_A,2.0999,132,uncharacterized hth-type transcriptional regulator ygit,3fmy_A_B,1.4,65,hth-type transcriptional regulator mqsa(ygit/b3021) 
+170,5dlo_A_B,4mzm_A_A,5dlo_A_B,1.401,114,endoribonuclease mazf,4mzm_A_A,2.1,115,mrna interferase mazf
+171,4hly_B_B,4hlx_A_B,4hly_B_B,1.48,106,k9,4hlx_A_B,2.379,99,k9
+172,3on0_A_A,3omy_A_A,3on0_A_A,2.874,121,protein tram,3omy_A_A,1.3,51,protein tram
+173,1xsd_A_A,1sd4_A_A,1xsd_A_A,2.7,125,penicillinase repressor,1sd4_A_A,2.0,122,penicillinase repressor
+174,1f4k_A_A,1j0r_A_A,1f4k_A_A,2.5,115,replication termination protein,1j0r_A_A,2.5,114,replication termination protein
+175,2qhb_A_A,2ckx_A_A,2qhb_A_A,2.4,86,telomere binding protein tbp1,2ckx_A_A,1.9,83,telomere binding protein tbp1
+176,2h8c_B_A,2h8e_A_A,2h8c_B_A,3.1,116,crossover junction endodeoxyribonuclease rusa,2h8e_A_A,1.2,120,crossover junction endodeoxyribonuclease rusa
+177,4zbn_A_A,1sg1_A_A,4zbn_A_A,2.447,97,beta-nerve growth factor,1sg1_A_A,2.4,99,beta-nerve growth factor
+178,4g92_C_A,4g91_C_A,4g92_C_A,1.8,117,hape,4g91_C_A,1.9,117,hape
+179,4on0_A_A,4omz_A_A,4on0_A_A,3.0,97,nolr,4omz_A_A,2.64,98,nolr
+180,5i50_A_B,5i4z_A_B,5i50_A_B,2.701,92,myc proto-oncogene protein,5i4z_A_B,1.95,74,myc proto-oncogene protein
+181,3gx4_X_A,3gva_A_A,3gx4_X_A,2.7,108,alkyltransferase-like protein 1,3gva_A_A,2.0,107,alkyltransferase-like protein 1
+182,4hqe_A_A,4hqm_A_A,4hqe_A_A,2.299,105,transcriptional regulator qsrr,4hqm_A_A,2.55,99,qsrr protein
+183,4hqu_A_B,4qci_C_A,4hqu_A_B,2.2,95,platelet-derived growth factor subunit b,4qci_C_A,2.3,92,platelet-derived growth factor subunit b
+184,1oj8_A_A,1oj1_A_A,1oj8_A_A,1.7,104,rc-rnase6 ribonuclease,1oj1_A_A,2.1,104,rc-rnase6 ribonuclease
+185,2dwm_A_A,2d7e_A_A,2dwm_A_A,3.15,105,primosomal protein n,2d7e_A_A,2.5,105,primosomal protein n'
+186,5dlj_E_A,4mak_A_A,5dlj_E_A,2.6,78,crispr-associated endoribonuclease cas2,4mak_A_A,1.1,73,crispr-associated endoribonuclease cas2
+187,3bs1_A_A,4g4k_A_B,3bs1_A_A,1.6,103,accessory gene regulator protein a,4g4k_A_B,1.52,98,accessory gene regulator protein a
+188,3s8q_A_A,4i6r_A_A,3s8q_A_A,2.1,76,r-m controller protein,4i6r_A_A,1.38,77,regulatory protein
+189,5ds9_A_A,1fip_A_A,5ds9_A_A,2.561,91,dna-binding protein fis,1fip_A_A,1.9,73,factor for inversion stimulation (fis)
+190,4jcy_A_A,3lfp_A_A,4jcy_A_A,1.8,92,csp231i c protein,3lfp_A_A,2.0,96,csp231i c protein
+191,1egw_A_B,5f28_A_A,1egw_A_B,1.5,71,"mads box transcription enhancer factor 2,polypeptide a ",5f28_A_A,2.9,70,mef2c
+192,4iht_A_A,3m1e_A_A,4iht_A_A,3.0,89,hth-type transcriptional regulator benm,3m1e_A_A,1.8,87,hth-type transcriptional regulator benm
+193,4g92_B_A,4g91_B_A,4g92_B_A,1.8,92,transcription factor hapc (eurofung),4g91_B_A,1.9,91,transcription factor hapc (eurofung)
+194,5k5q_A_A,4rs8_A_A,5k5q_A_A,2.649,89,aspa,4rs8_A_A,2.29,84,aspa
+195,3rmp_A_A,3jtz_A_B,3rmp_A_A,2.21,77,cp4-like integrase,3jtz_A_B,1.3,77,integrase
+196,2ayg_A_A,1r8h_A_B,2ayg_A_A,3.1,87,regulatory protein e2,1r8h_A_B,1.9,87,regulatory protein e2
+197,4zm0_A_A,3hs2_A_A,4zm0_A_A,3.17,55,antitoxin phd,3hs2_A_A,2.2,56,prevent host death protein
+198,3qws_A_B,2hin_A_B,3qws_A_B,2.1,62,gp39,2hin_A_B,1.05,66,repressor protein
+199,2c5r_B_A,2bnk_A_A,2c5r_B_A,2.9,63,early protein p16.7,2bnk_A_A,2.9,64,early protein gp16.7
+200,5i44_A_A,5i41_B_A,5i44_A_A,2.621,67,chromosome-anchoring protein raca,5i41_B_A,1.8,67,chromosome-anchoring protein raca
+201,4fth_A_A,3e7l_A_A,4fth_A_A,3.004,68,transcriptional regulator (ntrc family),3e7l_A_A,2.252,60,transcriptional regulator (ntrc family)
+202,2hax_A_C,1c9o_A_A,2hax_A_C,1.29,66,cold shock protein cspb,1c9o_A_A,1.17,66,cold-shock protein
+203,4xrm_A_A,3k2a_A_A,4xrm_A_A,1.6,59,homeobox protein meis2,3k2a_A_A,1.95,55,homeobox protein meis2
+204,2c62_A_A,1pcf_A_A,2c62_A_A,1.74,66,activated rna polymerase ii transcriptionalcoactivator p15 ,1pcf_A_A,1.74,66,transcriptional coactivator pc4
+205,4g92_A_A,4g91_A_A,4g92_A_A,1.8,61,hapb protein,4g91_A_A,1.9,28,hapb protein
