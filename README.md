@@ -9,7 +9,7 @@ set5: pairs of Bound (DNA binding)/Apo protein chains. <br/>
 set6: a non-redundant set of non-nucleic acid binding protein chains. <br/>
 
 <hr/>
-The 'Atom' folder contains all the atomic information of the DNA binding proteins, as csv tables.<br/>
-The 'Residue' folder contains all the residue and side-chain dihedral angle information of the DNA binding proteins, as csv tables.<br/>
+The 'Atom' zip files contains all the atomic information of the DNA binding proteins, as csv tables.<br/>
+The 'Residue' zip file contains all the residue and side-chain dihedral angle information of the DNA binding proteins, as csv tables.<br/>
 
 
